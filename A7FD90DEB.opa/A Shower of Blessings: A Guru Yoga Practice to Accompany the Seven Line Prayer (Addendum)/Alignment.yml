@@ -1,0 +1,42 @@
+segment_sources:
+  PA9511A3B:
+    type: origin_type
+    relation: translation
+    language: en
+  PC7657563:
+    type: origin_type
+    relation: translation
+    language: zh
+  P78AFB69A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e3fb035cdb50456bb7bd8465b36d6ac4:
+    PA9511A3B: 6c36fd68f18c4a2c927031ba02440ec7
+    PC7657563: da47d4ff864f4261872dbfc1c4654d02
+    P78AFB69A: a693f77b6950469cb0fc9e994cf6edbe
+  0a3a9738f2474b5aaf7f4bc0ee24be3e:
+    PA9511A3B: 99e2ba13b1994d0abc9417f43879579b
+    PC7657563: 71f5d1be9bab4e9b867c95539eaf007c
+    P78AFB69A: 92bd12bd38d94632aa10f8d14bb1ec8f
+  9c13720466af42a9b392d801d3fbc0f2:
+    PA9511A3B: a78c57edf5ce46b29874130d5fb7aac6
+    PC7657563: a5fec6874e7f4ad599c48dcf66fac733
+    P78AFB69A: 20e5c1eaff1547ec9551520997c7a224
+  33ac16316079437d9c4f7b6f5389749f:
+    PA9511A3B: 93f9be48795c47058daea16d29304ba5
+    PC7657563: 5e8a1538af524cdeabeb74e1b8f970f3
+    P78AFB69A: 64216c40a3f1400da63be1e00c57bb48
+  c0f03bae3b9b44eaad7fe4e9459da388:
+    PA9511A3B: 0b53ec0ffdf246c1939edb20086f4233
+    PC7657563: 39de7aafa34d4cf4b4fd1162793fc77c
+    P78AFB69A: d03a2283ab2a4d498886313b1d514cea
+  964b6460f4ad46c58a1f91b02129a7a8:
+    PA9511A3B: a118f7132e124f01bd28dd856bc307e6
+    PC7657563: c74bf6e73f0f47b1ab89b19cd0e539c6
+    P78AFB69A: 1bf0593eb3364864a2fe0a621ce5c1c7
+  b4167220d8e944f884a2088dea273a2a:
+    PA9511A3B: 1ffb46cc0db84d60918949fc0a72b532
+    PC7657563: 03f54821536c44aabd1861011b10b1c1
+    P78AFB69A: 150eb58670c9469ab8715dec0e05bfdc

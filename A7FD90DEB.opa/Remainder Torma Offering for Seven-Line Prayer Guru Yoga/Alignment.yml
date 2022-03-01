@@ -1,0 +1,19 @@
+segment_sources:
+  PA9511A3B:
+    type: origin_type
+    relation: translation
+    language: en
+  P78AFB69A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2206eff242db497b99b8ca114babc95a:
+    PA9511A3B: 304f8b26361846b9b3c0a261947d7be4
+    P78AFB69A: ddab26a6df62432091a85716b6658a16
+  6758fc78da6e4537bbead99da71579b5:
+    PA9511A3B: 7b38562e26f04dfca770bb8946fb407d
+    P78AFB69A: 14762089f78e4a48a6b66eb36bcc172c
+  cf8397e2b569417297fc051fc3fe70be:
+    PA9511A3B: 50ce8e89b4cc4d85981ebf3818e46289
+    P78AFB69A: 1fcf8f39da4444348baf69a8f230256a
